@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pantree/static/css/main.fe3dc31c.css",
+    "main.js": "/pantree/static/js/main.df2e70e7.js",
+    "static/media/pantree_logo.png": "/pantree/static/media/pantree_logo.5c5c1e41f429233afa86.png",
+    "index.html": "/pantree/index.html",
+    "main.fe3dc31c.css.map": "/pantree/static/css/main.fe3dc31c.css.map",
+    "main.df2e70e7.js.map": "/pantree/static/js/main.df2e70e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3dc31c.css",
+    "static/js/main.df2e70e7.js"
+  ]
+}
