@@ -1,4 +1,4 @@
-import logo from './pantree_logo.png';
+import logo from './this_pantree.png';
 import './App.css';
 
 function App() {
